@@ -2,3 +2,23 @@ baseURL: https://atlantacfi.co/
 languageCode: en-us
 title: Tim Cailloux (Atlanta CFI)
 theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: scheduling
+      name: Scheduling
+      url: /scheduling/
+      weight: 20
