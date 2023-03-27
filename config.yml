@@ -12,9 +12,9 @@ params:
     enabled: true
     title: "Tim Cailloux"
     subtitle: "Atlanta-area Flight Instruction"
-    imageUrl: # static/img image here...
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageUrl: /android-chrome-192x192.png
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
     buttons:
       - name: Schedule
         url: "/scheduling"
