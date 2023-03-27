@@ -2,6 +2,7 @@
 title: About Tim
 draft: false
 ShowReadingTime: false
+ShowBreadCrumbs: false
 cover:
     image: /img/tim_airplane.jpeg
     alt: 'Tim standing next to an airplane'

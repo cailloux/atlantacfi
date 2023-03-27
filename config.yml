@@ -3,8 +3,11 @@ languageCode: en-us
 title: Tim Cailloux (Atlanta CFI)
 theme: "PaperMod"
 
+enableRobotsTXT: true
+
 params:
   defaultTheme: light
+  ShowBreadCrumbs: true
   disableThemeToggle: true
   ShowShareButton: true
   ShowReadingTime: true
@@ -20,15 +23,6 @@ params:
         url: "/scheduling"
       - name: About
         url: "/about"
-
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-
-minify:
-  disableXML: true
-  minifyOutput: true
 
 menu:
   main:
