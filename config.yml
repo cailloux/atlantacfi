@@ -3,13 +3,6 @@ languageCode: en-us
 title: Tim Cailloux (Atlanta CFI)
 theme: "PaperMod"
 
-assets:
-    favicon: "/favicon/favicon.ico"
-    favicon16x16:  "/favicon/favicon-16x16.png"
-    favicon32x32:  "/favicon/favicon-32x32.png"
-    apple_touch_icon:  "/favicon/apple-touch-icon.png"
-    safari_pinned_tab:  "/favicon/safari-pinned-tab.svg"
-
 params:
   defaultTheme: light
   disableThemeToggle: true
@@ -28,7 +21,6 @@ params:
       - name: About
         url: "/about"
 
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -40,6 +32,10 @@ minify:
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
     - identifier: about
       name: About
       url: /about/
