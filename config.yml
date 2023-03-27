@@ -12,7 +12,7 @@ params:
     enabled: true
     title: "Tim Cailloux"
     subtitle: "Atlanta-area Flight Instruction"
-    imageUrl: /intro_icon.png
+    imageUrl: /img/intro_icon.png
     # imageWidth: 120 # custom size
     # imageHeight: 120 # custom size
     buttons:
