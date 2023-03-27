@@ -11,7 +11,7 @@ params:
   profileMode:
     enabled: true
     title: "Tim Cailloux"
-    subtitle: "Atlanta-area Flight Instruction"
+    subtitle: "Atlanta-area Flight Instruction, based at PDK and FFC"
     imageUrl: /img/intro_icon.png
     # imageWidth: 120 # custom size
     # imageHeight: 120 # custom size
