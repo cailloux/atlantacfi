@@ -3,6 +3,25 @@ languageCode: en-us
 title: Tim Cailloux (Atlanta CFI)
 theme: "PaperMod"
 
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  ShowShareButton: true
+  ShowReadingTime: true
+  profileMode:
+    enabled: true
+    title: "Tim Cailloux"
+    subtitle: "Atlanta-area Flight Instruction"
+    imageUrl: # static/img image here...
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Schedule
+        url: "/scheduling"
+      - name: About
+        url: "/about"
+
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -22,3 +41,17 @@ menu:
       name: Scheduling
       url: /scheduling/
       weight: 20
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
