@@ -3,7 +3,7 @@ title: About Tim
 draft: false
 ShowReadingTime: false
 cover:
-    image: img/tim_airplane.jpeg
+    image: /img/tim_airplane.jpeg
     alt: 'Tim standing next to an airplane'
     caption: 'Flying a Cessna 172'
 ---
