@@ -35,23 +35,27 @@ menu:
     - identifier: home
       name: Home
       url: /
-      weight: 1
+      weight: 10
     - identifier: about
       name: About
       url: /about/
-      weight: 10
+      weight: 20
     - identifier: scheduling
       name: Scheduling
       url: /scheduling/
-      weight: 20
+      weight: 30
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 40
     - identifier: archives
       name: Archive
       url: /archives/
-      weight: 30
+      weight: 50
     - identifier: search
       name: Search
       url: /search/
-      weight: 40
+      weight: 60
 
 outputs:
   home:
