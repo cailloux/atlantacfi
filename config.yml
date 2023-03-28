@@ -1,4 +1,4 @@
-# baseURL: https://atlantacfi.co/
+baseURL: https://atlantacfi.co/
 languageCode: en-us
 title: Tim Cailloux (Atlanta CFI)
 theme: "PaperMod"
@@ -42,10 +42,6 @@ menu:
       name: Posts
       url: /posts/
       weight: 40
-    - identifier: archives
-      name: Archive
-      url: /archives/
-      weight: 50
     - identifier: search
       name: Search
       url: /search/
