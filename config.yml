@@ -23,6 +23,8 @@ params:
         url: "/scheduling"
       - name: About
         url: "/about"
+      - name: Rusty Pilot
+        url: "/rustypilot"
 
 menu:
   main:
@@ -32,19 +34,23 @@ menu:
       weight: 10
     - identifier: about
       name: About
-      url: /about/
+      pageRef: /about
       weight: 20
     - identifier: scheduling
       name: Scheduling
-      url: /scheduling/
+      pageRef: /scheduling
       weight: 30
     - identifier: posts
       name: Posts
-      url: /posts/
+      pageRef: /posts
       weight: 40
+    - identifier: lessons
+      name: Lesson Plans
+      pageRef: /lessons/
+      weight: 50
     - identifier: search
       name: Search
-      url: /search/
+      pageRef: /search
       weight: 60
 
 outputs:

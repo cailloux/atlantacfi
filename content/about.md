@@ -1,4 +1,6 @@
 ---
+typora-copy-images-to: ../static/img
+typora-root-url: ../static/img
 title: About Tim
 draft: false
 ShowReadingTime: false

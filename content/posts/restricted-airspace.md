@@ -5,6 +5,10 @@ tags: ['iap']
 slug: "ALM-RNAV-4-and-restricted-airspace"
 lastmod: 2023-03-27
 draft: false
+cover:
+    image: /img/restricted-airspace-header.png
+    alt: 'The ALM RNAV 4 Approach'
+    caption: 'RNAV 4 Approach'
 ---
 
 I recently came across the approach plate for the [RNAV 4 at (ALM) Alamagordo, NM](/documents/KALM-RNAV-04.pdf).
