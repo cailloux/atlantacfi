@@ -64,6 +64,8 @@ menu:
       pageRef: /search
       weight: 60
 
+googleAnalytics: "G-MWEKFMQ43C"
+
 outputs:
   home:
     - HTML
