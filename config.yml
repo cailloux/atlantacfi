@@ -28,6 +28,14 @@ params:
         url: "/about"
       - name: Rusty Pilot
         url: "/rustypilot"
+  
+  socialIcons:
+    - name: "instagram"
+      url: "https://www.instagram.com/i_fly_ifr/"
+    - name: "github"
+      url: "https://github.com/cailloux"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/tcailloux/"
 
 menu:
   main:
