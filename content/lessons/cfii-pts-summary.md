@@ -5,6 +5,7 @@ title: "Instrument Instructor Test Requirements"
 description: "A summarized excerpt from the FAA PTS"
 tags: ['ifr', 'pts']
 lastmod: 2023-03-28
+weight: 1
 ---
 
 The FAA publishes the PTS (Practical Test Standards), which are the basis for all practical exams.  The current version of this document is FAA-S-8081-9D.[^1] However, it's a fairly large document, spread across several sections, which makes it hard to see just the topics we need to cover for the add-on Instrument rating to the Flight Instructor rating.  To make life easier, and to make it easier to navigate to lesson plan summaries, I'm breaking out the requirements for the CFII Add-On Rating here.

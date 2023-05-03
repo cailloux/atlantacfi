@@ -1,5 +1,5 @@
 ---
-title: "Area VII, Task A: Intercepting and Tracking Navigational Systems and DME Arcs"
+title: "7.A. Intercepting and Tracking Navigational Systems and DME Arcs"
 description: "Navigation Systems Area VII, Task A"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03

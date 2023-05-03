@@ -1,5 +1,5 @@
 ---
-title: "Area VIII, Task D: Circling Approach"
+title: "8.D. Circling Approach"
 description: "Instrument Approach Procedures Area VIII, Task D"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03

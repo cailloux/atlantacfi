@@ -1,5 +1,5 @@
 ---
-title: "Area VIII, Task C: Missed Approach"
+title: "8.C. Missed Approach"
 description: "Instrument Approach Procedures Area VIII, Task C"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03

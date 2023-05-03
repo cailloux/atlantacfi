@@ -1,5 +1,5 @@
 ---
-title: "Area VII, Task B: Holding Procedures"
+title: "7.B. Holding Procedures"
 description: "Navigation Systems Area VII, Task B"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03

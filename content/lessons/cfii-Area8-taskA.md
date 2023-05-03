@@ -1,5 +1,5 @@
 ---
-title: "Area VIII, Task A: Non-Precision Instrument Approach"
+title: "8.A. Non-Precision Instrument Approach"
 description: "Instrument Approach Procedures Area VIII, Task A"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
