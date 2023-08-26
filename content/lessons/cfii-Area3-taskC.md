@@ -3,7 +3,7 @@ title: "3.C. Instrument Cockpit Check"
 description: "Preflight Preparation Area III, Task C"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Instrument Cockpit Check
 

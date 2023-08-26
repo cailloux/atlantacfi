@@ -3,7 +3,7 @@ title: "6.H. Recovery from Unusual Flight Attitudes"
 description: "Flight by Reference to Instruments Area VI, Task H"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Recovery from Unusual Flight Attitudes
 

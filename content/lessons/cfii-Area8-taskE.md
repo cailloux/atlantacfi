@@ -3,7 +3,7 @@ title: "8.E. Landing from a Straight-In Approach"
 description: "Instrument Approach Procedures Area VIII, Task E"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Circling Approach
 

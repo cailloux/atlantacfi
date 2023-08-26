@@ -3,7 +3,7 @@ title: "9.B. Approach with Loss of Primary Flight Instrument Indicators"
 description: "Emergency Operations Area IX, Task B"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Approach with Loss of Primary Flight Instrument Indicators
 

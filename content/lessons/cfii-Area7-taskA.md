@@ -3,7 +3,7 @@ title: "7.A. Intercepting and Tracking Navigational Systems and DME Arcs"
 description: "Navigation Systems Area VII, Task A"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Intercepting and Tracking Navigational Systems and DME Arcs
 

@@ -3,7 +3,7 @@ title: "6.A. Straight and Level Flight"
 description: "Flight by Reference to Instruments Area VI, Task A"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Straight and Level Flight
 

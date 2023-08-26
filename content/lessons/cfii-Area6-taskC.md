@@ -3,7 +3,7 @@ title: "6.C. Change of Airspeed in Straight-and-Level and Turning Flight"
 description: "Flight by Reference to Instruments Area VI, Task C"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Change of Airspeed in Straight-and-Level and Turning Flight
 

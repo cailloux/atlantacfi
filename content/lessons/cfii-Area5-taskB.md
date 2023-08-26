@@ -3,7 +3,7 @@ title: "5.B. Compliance with Departure, En Route, and Arrival Procedures and Cle
 description: "ATC Clearances and Procedures Area V, Task B"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Compliance with Departure, En Route, and Arrival Procedures and Clearances
 

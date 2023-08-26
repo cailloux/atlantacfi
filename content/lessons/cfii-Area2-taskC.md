@@ -3,7 +3,7 @@ title: "2.C. Regulations and Publications Related to IFR Operations"
 description: "Technical Subject Area II, Task C"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Regulations and Publications Related to IFR Operations
 

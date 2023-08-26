@@ -3,7 +3,7 @@ title: "3.B. Cross-Country Flight Planning"
 description: "Preflight Preparation Area III, Task B"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Cross-Country Flight Planning
 

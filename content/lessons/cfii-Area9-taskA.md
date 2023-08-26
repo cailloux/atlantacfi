@@ -3,7 +3,7 @@ title: "9.A. Loss of Communications"
 description: "Emergency Operations Area IX, Task A"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Loss of Communications
 

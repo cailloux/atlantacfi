@@ -3,7 +3,7 @@ title: "6.G. Steep Turns"
 description: "Flight by Reference to Instruments Area VI, Task G"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Steep Turns
 

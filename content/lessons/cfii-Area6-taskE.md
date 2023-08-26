@@ -3,7 +3,7 @@ title: "6.E. Constant Rate Climbs and Descents"
 description: "Flight by Reference to Instruments Area VI, Task E"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Constant Rate Climbs and Descents
 

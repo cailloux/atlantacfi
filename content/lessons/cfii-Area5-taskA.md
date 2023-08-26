@@ -3,7 +3,7 @@ title: "5.A. Air Traffic Control Clearances"
 description: "ATC Clearances and Procedures Area V, Task A"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Air Traffic Control Clearances
 

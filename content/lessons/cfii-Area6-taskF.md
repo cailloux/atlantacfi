@@ -3,7 +3,7 @@ title: "6.F. Timed Turns to Magnetic Compass Headings"
 description: "Flight by Reference to Instruments Area VI, Task F"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Timed Turns to Magnetic Compass Headings
 

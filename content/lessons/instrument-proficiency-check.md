@@ -6,6 +6,11 @@ lastmod: 2023-05-03
 draft: false
 weight: 2
 ---
+### IPC Checklist
+[IPC Checklist in PDF Format](/documents/ipc_checklist.pdf)
+
+Here's a handy checklist to use when performing an IPC. Fold the paper in half, and you can use the front to check off the required tasks (from the Instrument ACS) and the back side to take notes about the flight for debrief. It also includes the relevant endorsement from AC 61-65H for documenting a successful IPC.
+
 ### IPC Plan of Action:
 1. Ground review of instrument flight rules, flight planning, and the specific flight for the IPC.  Identify the following to be used during the flight portion of the IPC:
    1. Non-Precision Approach

@@ -3,7 +3,7 @@ title: "6.B. Turns"
 description: "Flight by Reference to Instruments Area VI, Task B"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Turns
 

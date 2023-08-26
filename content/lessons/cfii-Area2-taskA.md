@@ -3,7 +3,7 @@ title: "2.A. Flight Instruments and Navigation Equipment"
 description: "Technical Subject Area II, Task A"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Aircraft Flight Instruments and Navigation Equipment
 

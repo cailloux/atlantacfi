@@ -3,7 +3,7 @@ title: "6.D. Constant Airspeed Climbs and Descents"
 description: "Flight by Reference to Instruments Area VI, Task D"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Constant Airspeed Climbs and Descents
 

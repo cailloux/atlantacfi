@@ -3,7 +3,7 @@ title: "8.B. Precision Instrument Approach"
 description: "Instrument Approach Procedures Area VIII, Task B"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
-draft: false
+draft: true
 ---
 ### Precision Instrument Approach
 
