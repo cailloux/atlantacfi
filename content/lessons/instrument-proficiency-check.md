@@ -4,7 +4,7 @@ description: "Regaining Instrument Currency or Demonstrating Proficiency"
 tags: ['lesson plans', 'ifr']
 lastmod: 2023-05-03
 draft: false
-weight: 2
+weight: 3
 ---
 ### IPC Checklist
 [IPC Checklist in PDF Format](/documents/ipc_checklist.pdf)

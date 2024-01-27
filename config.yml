@@ -8,9 +8,9 @@ enableRobotsTXT: true
 params:
   defaultTheme: light
   ShowBreadCrumbs: true
+  hideMeta: true
   disableThemeToggle: true
   ShowShareButton: true
-  ShowReadingTime: true
   label:
     text: "Tim Cailloux, CFI"
     icon: "/img/intro_icon.png"
