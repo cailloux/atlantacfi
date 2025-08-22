@@ -26,8 +26,6 @@ params:
         url: "/scheduling"
       - name: About
         url: "/about"
-      - name: Rusty Pilot
-        url: "/rustypilot"
   
   socialIcons:
     - name: "instagram"
