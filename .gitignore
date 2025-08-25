@@ -14,3 +14,7 @@ hugo.linux
 
 # MacOS things
 .DS_Store
+
+# Cloudflare Things
+.wrangler
+node_modules

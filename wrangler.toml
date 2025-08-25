@@ -3,4 +3,8 @@
 name = "atlanta-cfi"
 compatibility_date = "2025-08-20"
 pages_build_output_dir = "./public"
+preview_urls = true
+
+[assets]
 not_found_handling = "404-page"
+directory = "./public"
