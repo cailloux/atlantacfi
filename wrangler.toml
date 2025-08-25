@@ -7,5 +7,5 @@ compatibility_date = "2025-08-20"
 command = "chmod a+x build.sh && ./build.sh"
 
 [assets]
-directory = "./public"
+pages_build_output_dir = "./public"
 not_found_handling = "404-page"
