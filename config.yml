@@ -13,12 +13,12 @@ params:
   ShowShareButton: true
   label:
     text: "Tim Cailloux, CFI"
-    icon: "/img/intro_icon.png"
+    icon: "/img/intro_icon.webp"
   profileMode:
     enabled: true
     title: "Tim Cailloux"
     subtitle: "Atlanta-area Flight Instruction, based at PDK and FFC"
-    imageUrl: /img/tim_headshot.jpeg
+    imageUrl: /img/tim_headshot.webp
     # imageWidth: 120 # custom size
     # imageHeight: 120 # custom size
     buttons:

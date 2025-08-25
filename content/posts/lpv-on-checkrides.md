@@ -24,11 +24,11 @@ The FAA codified APV approaches as something between Precision and Non-Precision
 
 The underlying standards for APV, and all approaches, are governed by the International Civil Aviation Organization.  If you dig deep into ICAO Annex 10, Volume 1, Chapter 3, Section 7, and go all the way to the end of the section, you'll see the various definitions of approaches and the accuracy requirements for RNAV/GPS-based approaches.
 
-![SBAS Accuracy Criteria](/img/sbas_criteria.png)
+![SBAS Accuracy Criteria](/img/sbas_criteria.webp)
 
 There is a small increase in accuracy required for a WAAS RNAV/GPS (a Space-Based Augmentation System) to go from APV to Category I Precision Approach.  The FAA has defined their own accuracy standards, which are similar to ICAO, but aren't the same.  The discrepancy, in Time To Alert, from 6.2 seconds, to 6.0 seconds, seems to be enough to make our APV approaches ineligible for consideration as a Precision Approach.  (LPV-200 indicates an LPV approach with a decision altitude that is 200' AGL.)
 
-![WAAS Accuracy Criteria](/img/waas_performance.png)
+![WAAS Accuracy Criteria](/img/waas_performance.webp)
 
 So APV approaches are approaches that provide accurate horizontal and vertical guidance.  They can absolutely be as accurate as a Precision approach, and they require no external ground equipment to be maintained, making them easier and faster to create, with fewer ongoing costs and virtually no maintenance.
 

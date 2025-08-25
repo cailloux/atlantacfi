@@ -10,6 +10,7 @@ ShowBreadCrumbs: false
 ### Weather
 
 * WeatherSpork - https://weatherspork.com/
+* Pivotal Weather - https://pivotalweather.com/
 
 ### Logging
 

@@ -6,7 +6,7 @@ draft: false
 ShowReadingTime: false
 ShowBreadCrumbs: false
 cover:
-    image: /img/tim_airplane.jpeg
+    image: /img/tim_airplane.webp
     alt: 'Tim flying a Cessna 182 to Washington, DC'
     caption: 'Flying a Cessna 182'
 ---

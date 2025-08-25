@@ -6,7 +6,7 @@ slug: "ALM-RNAV-4-and-restricted-airspace"
 lastmod: 2023-03-27
 draft: false
 cover:
-    image: /img/restricted-airspace-header.png
+    image: /img/restricted-airspace-header.webp
     alt: 'The ALM RNAV 4 Approach'
     caption: 'RNAV 4 Approach'
 ---
