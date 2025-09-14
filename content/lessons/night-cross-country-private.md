@@ -12,10 +12,10 @@ weight: 4
    2. Route Planning
    3. Altitude Planning
 2. VOR Navigation
-   5. Introduction to VOR Navigation and How They Work
-   6. VOR Presentation on the Garmin G5/CDI/HSI, OBS Mode
-   7. Station Tuning, Identification
-   8. Intercepting and Tracking Inbound and Outbound, Zone of Confusion
+   1. Introduction to VOR Navigation and How They Work
+   2. VOR Presentation on the Garmin G5/CDI/HSI, OBS Mode
+   3. Station Tuning, Identification
+   4. Intercepting and Tracking Inbound and Outbound, Zone of Confusion
 3. Airport Lighting
    1. Airport Beacon
    2. Taxiway Lights
