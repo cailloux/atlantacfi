@@ -1,5 +1,5 @@
 baseURL: https://atlantacfi.co/
-languageCode: en-us
+locale: en-us
 title: Tim Cailloux (Atlanta CFI)
 theme: "PaperMod"
 
